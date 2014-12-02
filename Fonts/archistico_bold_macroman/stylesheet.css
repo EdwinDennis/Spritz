@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'archisticobold';
+    src: url('Fonts/archistico_bold_macroman/Archistico_Bold-webfont.eot');
+    src: url('Fonts/archistico_bold_macroman/Archistico_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Fonts/archistico_bold_macroman/Archistico_Bold-webfont.woff') format('woff'),
+         url('Fonts/archistico_bold_macroman/Archistico_Bold-webfont.ttf') format('truetype'),
+         url('Fonts/archistico_bold_macroman/Archistico_Bold-webfont.svg#archisticobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

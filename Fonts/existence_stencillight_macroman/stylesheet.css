@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'existencestencil_light';
+    src: url('../Fonts/existence_stencillight_macroman/Existence-StencilLight-webfont.eot');
+    src: url('../Fonts/existence_stencillight_macroman/Existence-StencilLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/existence_stencillight_macroman/Existence-StencilLight-webfont.woff') format('woff'),
+         url('../Fonts/existence_stencillight_macroman/Existence-StencilLight-webfont.ttf') format('truetype'),
+         url('../Fonts/existence_stencillight_macroman/Existence-StencilLight-webfont.svg#existencestencil_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
